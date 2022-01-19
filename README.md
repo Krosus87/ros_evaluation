@@ -21,7 +21,7 @@ Second, one needs to create a workspace before downloading and building this pac
 
 ```bash
 $ mkdir -p ~/catkin_ws/src
-$ cd ..
+$ cd ~/catkin_ws
 $ catkin_make
 $ source ~/catkin_ws/devel/setup.bash
 ```
